@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Rishit Girdhar** - [rishit2904](https://github.com/rishit2904)
+- **Rishit** - [rishit2904](https://github.com/rishit2904)
 
 ## Acknowledgments
 
